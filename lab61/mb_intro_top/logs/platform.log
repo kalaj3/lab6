@@ -1,0 +1,770 @@
+TRACE::2024-10-13.15:52:02::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:02::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:02::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:02::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:02::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:02::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-13.15:52:03::SCWPlatform::Opened new HwDB with name mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-10-13.15:52:03::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top"
+		}]
+}
+TRACE::2024-10-13.15:52:03::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-10-13.15:52:03::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-10-13.15:52:03::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top"
+		}]
+}
+TRACE::2024-10-13.15:52:03::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top"
+		}]
+}
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:03::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:03::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:03::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-13.15:52:03::SCWMssOS::No sw design opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:03::SCWMssOS::mss does not exists at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:03::SCWMssOS::Creating sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:03::SCWMssOS::Adding the swdes entry, created swdb C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:03::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:03::SCWMssOS::Writing mss at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:03::SCWMssOS::Completed writing the mss file at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-13.15:52:03::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-13.15:52:03::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-13.15:52:03::SCWMssOS::Completed writing the mss file at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-13.15:52:03::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-10-13.15:52:05::SCWMssOS::Saving the mss changes C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-13.15:52:05::SCWMssOS::Writing the mss file completed C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Commit changes completed.
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"6407b470549987c889484e5818c26d33",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-10-13.15:52:05::SCWPlatform::Started generating the artifacts platform mb_intro_top
+TRACE::2024-10-13.15:52:05::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-13.15:52:05::SCWPlatform::Started generating the artifacts for system configuration mb_intro_top
+LOG::2024-10-13.15:52:05::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-10-13.15:52:05::SCWSystem::Not a boot domain 
+LOG::2024-10-13.15:52:05::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-13.15:52:05::SCWDomain::Generating domain artifcats
+TRACE::2024-10-13.15:52:05::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-13.15:52:05::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Completed writing the mss file at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-13.15:52:05::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-13.15:52:05::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-13.15:52:05::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2024-10-13.15:52:05::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-13.15:52:05::SCWMssOS::Copying to export directory.
+TRACE::2024-10-13.15:52:05::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-13.15:52:05::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-13.15:52:05::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-13.15:52:05::SCWSystem::Completed Processing the sysconfig mb_intro_top
+LOG::2024-10-13.15:52:05::SCWPlatform::Completed generating the artifacts for system configuration mb_intro_top
+TRACE::2024-10-13.15:52:05::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-13.15:52:05::SCWSystem::Writing the bif file for system config mb_intro_top
+TRACE::2024-10-13.15:52:05::SCWSystem::dir created 
+TRACE::2024-10-13.15:52:05::SCWSystem::Writing the bif 
+TRACE::2024-10-13.15:52:05::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-13.15:52:05::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-13.15:52:05::SCWPlatform::Completed generating the platform
+TRACE::2024-10-13.15:52:05::SCWMssOS::Saving the mss changes C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-13.15:52:05::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-13.15:52:05::SCWMssOS::Commit changes completed.
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"6407b470549987c889484e5818c26d33",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-13.15:52:05::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Saving the mss changes C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-13.15:52:05::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-13.15:52:05::SCWMssOS::Commit changes completed.
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"6407b470549987c889484e5818c26d33",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Saving the mss changes C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-13.15:52:05::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-13.15:52:05::SCWMssOS::Commit changes completed.
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"6407b470549987c889484e5818c26d33",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-10-13.15:52:05::SCWPlatform::Started generating the artifacts platform mb_intro_top
+TRACE::2024-10-13.15:52:05::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-13.15:52:05::SCWPlatform::Started generating the artifacts for system configuration mb_intro_top
+LOG::2024-10-13.15:52:05::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-13.15:52:05::SCWDomain::Generating domain artifcats
+TRACE::2024-10-13.15:52:05::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-13.15:52:05::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Completed writing the mss file at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-13.15:52:05::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-13.15:52:05::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-13.15:52:05::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-10-13.15:52:05::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-13.15:52:05::SCWMssOS::Copying to export directory.
+TRACE::2024-10-13.15:52:05::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-13.15:52:05::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-13.15:52:05::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-13.15:52:05::SCWSystem::Completed Processing the sysconfig mb_intro_top
+LOG::2024-10-13.15:52:05::SCWPlatform::Completed generating the artifacts for system configuration mb_intro_top
+TRACE::2024-10-13.15:52:05::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-13.15:52:05::SCWSystem::Writing the bif file for system config mb_intro_top
+TRACE::2024-10-13.15:52:05::SCWSystem::dir created 
+TRACE::2024-10-13.15:52:05::SCWSystem::Writing the bif 
+TRACE::2024-10-13.15:52:05::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-13.15:52:05::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-13.15:52:05::SCWPlatform::Completed generating the platform
+TRACE::2024-10-13.15:52:05::SCWMssOS::Saving the mss changes C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-13.15:52:05::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-13.15:52:05::SCWMssOS::Commit changes completed.
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to open the hw design at C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA given C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA absoulate path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform::DSA directory C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Platform Path C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-13.15:52:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-13.15:52:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-13.15:52:05::SCWMssOS::Checking the sw design at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWMssOS::DEBUG:  swdes dump  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-13.15:52:05::SCWMssOS::Sw design exists and opened at  C:/Users/jkali/ece385/lab6/lab61/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-13.15:52:05::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"6407b470549987c889484e5818c26d33",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-13.15:52:05::SCWPlatform::updated the xpfm file.
