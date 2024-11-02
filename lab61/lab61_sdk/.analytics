@@ -15,3 +15,33 @@ timestamp=[2024-10-13 16:16:56], mode=BUILD, duration=0:00:00.676, duration_ms=6
 timestamp=[2024-10-13 16:16:56], mode=BUILD, duration=0:00:00.176, duration_ms=176, data={name=mb_blink_system, configuration=Debug, clean_build=false}
 timestamp=[2024-10-13 16:24:13], mode=BUILD, duration=0:00:00.586, duration_ms=586, data={name=mb_blink, configuration=Debug, clean_build=false}
 timestamp=[2024-10-13 16:24:13], mode=BUILD, duration=0:00:00.113, duration_ms=113, data={name=mb_blink_system, configuration=Debug, clean_build=false}
+timestamp=[2024-10-13 16:58:10], mode=BUILD, duration=0:00:01.562, duration_ms=1562, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2024-10-13 16:58:11], mode=BUILD, duration=0:00:00.115, duration_ms=115, data={name=mb_blink_system, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 11:55:51], mode=WORKBENCH_START, duration=0:00:35.388, duration_ms=35388, data={}
+timestamp=[2024-10-16 11:55:53], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.274, duration_ms=274, data={}
+timestamp=[2024-10-16 11:55:54], mode=WORKBENCH_UI_INIT, duration=0:00:02.846, duration_ms=2846, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_blink,mb_blink_system,mb_intro_top}
+timestamp=[2024-10-16 11:58:46], mode=BUILD, duration=0:00:05.582, duration_ms=5582, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 11:58:48], mode=BUILD, duration=0:00:00.468, duration_ms=468, data={name=mb_blink_system, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 12:53:19], mode=BUILD, duration=0:00:02.158, duration_ms=2158, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 12:53:19], mode=BUILD, duration=0:00:00.117, duration_ms=117, data={name=mb_blink_system, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 12:54:21], mode=BUILD, duration=0:00:00.109, duration_ms=109, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 12:54:22], mode=BUILD, duration=0:00:00.111, duration_ms=111, data={name=mb_blink_system, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 12:56:15], mode=WORKBENCH_START, duration=0:00:07.338, duration_ms=7338, data={}
+timestamp=[2024-10-16 12:56:16], mode=WORKBENCH_UI_INIT, duration=0:00:00.722, duration_ms=722, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_blink,mb_blink_system,mb_intro_top}
+timestamp=[2024-10-16 12:56:16], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.028, duration_ms=28, data={}
+timestamp=[2024-10-16 12:56:23], mode=BUILD, duration=0:00:00.264, duration_ms=264, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 12:56:24], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=mb_blink_system, configuration=Debug, clean_build=false}
+timestamp=[2024-10-17 19:23:32], mode=WORKBENCH_START, duration=0:00:46.744, duration_ms=46744, data={}
+timestamp=[2024-10-17 19:23:35], mode=WORKBENCH_UI_INIT, duration=0:00:02.720, duration_ms=2720, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_blink,mb_blink_system,mb_intro_top}
+timestamp=[2024-10-17 19:23:36], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.189, duration_ms=189, data={}
+timestamp=[2024-10-17 19:25:48], mode=BUILD, duration=0:00:04.616, duration_ms=4616, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2024-10-17 19:25:50], mode=BUILD, duration=0:00:00.401, duration_ms=401, data={name=mb_blink_system, configuration=Debug, clean_build=false}
+timestamp=[2024-10-17 19:27:30], mode=BUILD, duration=0:00:01.308, duration_ms=1308, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2024-10-17 19:27:32], mode=BUILD, duration=0:00:00.464, duration_ms=464, data={name=mb_blink_system, configuration=Debug, clean_build=false}
+timestamp=[2024-10-18 11:28:50], mode=WORKBENCH_START, duration=0:00:19.658, duration_ms=19658, data={}
+timestamp=[2024-10-18 11:28:52], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.160, duration_ms=160, data={}
+timestamp=[2024-10-18 11:28:53], mode=WORKBENCH_UI_INIT, duration=0:00:02.823, duration_ms=2823, data={editors_count=3, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mb_blink,mb_blink_system,mb_intro_top}
+timestamp=[2024-10-18 11:29:28], mode=BUILD, duration=0:00:01.652, duration_ms=1652, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2024-10-18 11:29:29], mode=BUILD, duration=0:00:00.271, duration_ms=271, data={name=mb_blink_system, configuration=Debug, clean_build=false}
+timestamp=[2024-10-18 11:29:55], mode=BUILD, duration=0:00:03.750, duration_ms=3750, data={name=mb_blink, configuration=Debug, clean_build=false}
+timestamp=[2024-10-18 11:29:56], mode=BUILD, duration=0:00:00.357, duration_ms=357, data={name=mb_blink_system, configuration=Debug, clean_build=false}
